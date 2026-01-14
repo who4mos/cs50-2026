@@ -1,1 +1,5 @@
-[[https://cs50.harvard.edu/x/]]
+This repository contains my solutions to [[https://cs50.harvard.edu/x/][CS50]]'s problem sets.
+
+* Lecture 1: Scratch
+
+[[https://scratch.mit.edu/projects/1261832990/][Cold Run]]
