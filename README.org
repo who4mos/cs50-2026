@@ -1,5 +1,21 @@
 This repository contains my solutions to [[https://cs50.harvard.edu/x/][CS50]]'s problem sets.
 
-* Lecture 1: Scratch
+#+begin_quote
+[!NOTE]
+To compile the C source codes locally, you'll need [[https://github.com/cs50/libcs50][libcs50]] installed and compile with the flag ~-lcs50~.
+#+end_quote
+
+* Problem Set 0
 
 [[https://scratch.mit.edu/projects/1261832990/][Cold Run]]
+
+* Problem Set 1
+
+- [[file:world/hello.c][World]] 
+- [[file:me/hello.c][Me]]
+- [[file:mario-less/mario.c][Mario-less]]
+- [[file:mario-more/mario.c][Mario-more]]
+- [[file:cash/cash.c][Cash]]
+- [[file:credit/credit.c][Credit]]
+
+
