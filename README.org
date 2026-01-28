@@ -18,9 +18,15 @@ To compile the C source codes locally, you'll need [[https://github.com/cs50/lib
 - [[file:week-1/cash/cash.c][Cash]]
 - [[file:week-1/credit/credit.c][Credit]]
 
-
 * After Week 1
 
 - [[file:after-week-1/debug/debug.c][Debug]]
 - [[file:after-week-1/half/half.c][Half]]
 - [[file:after-week-1/prime/prime.c][Prime]]
+
+* Problem Set 2
+
+- [[file:week-2/scrabble/scrabble.c][Scrabble]]
+- [[file:week-2/readability/readability.c][Readability]]
+- [[file:week-2/caesar/caesar.c][Caesar]]
+- [[file:week-2/substitution/substitution.c][Substitution]]
